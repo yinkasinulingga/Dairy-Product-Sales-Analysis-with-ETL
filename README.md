@@ -52,7 +52,7 @@ Proyek ini bertujuan untuk **mengotomatiskan proses ETL (Extract, Transform, Loa
 
 ## **Kontak**  
 Jika ada pertanyaan atau saran, silakan hubungi:  
-📧 **Email**: yuana.inka@example.com  
+📧 **Email**: yinkasinulingga@gmail.com  
 
 ---
 
